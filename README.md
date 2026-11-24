@@ -9,7 +9,7 @@ Cybersecurity Enthusiast | Penetration Testing | Security Operations | Data Prot
 
 ---
 
-👨‍💻 About Me
+## About Me
 
 I am a Computer Science graduate with a strong passion for Cybersecurity, Penetration Testing, Information Security, Security Operations, and Data Protection.
 
@@ -19,7 +19,7 @@ I am particularly interested in identifying security vulnerabilities, analysing 
 
 I believe in continuous learning, practical experimentation, and sharing knowledge with the cybersecurity community.
 
-🎯 Cybersecurity Specialisations
+## Cybersecurity Specialisations
 
 - Ethical Hacking and Penetration Testing
 - Vulnerability Assessment and Management
@@ -32,19 +32,26 @@ I believe in continuous learning, practical experimentation, and sharing knowled
 - Cybersecurity Risk Assessment
 - Security Governance and Compliance
 
-🛠️ Technical Skills and Tools
+## Technical Skills and Tools
+[provide skills and associated project. Make sure to hyperlink the project]
+| Skills                  | Associated Project                | 
+|-------------------------|-----------------------------------|
+| Network Traffic Monitoring and Attack Dectection            |<a href="https://google.com">Detection Lab/a>|
+| Security Automation with Shuffle SOAR                       |  <a href="https://google.com">Detection Lab/a>|
+| SIEM Implementation and Log Analysis                        |<a href="https://google.com">Detection Lab/a>|
+| Case Management with TheHive                                |<a href="https://google.com">Detection Lab/a>|
+| Incident Response Planning and Execution                    |  <a href="https://google.com">Detection Lab/a>|                                     
+## Tools
 
-Category| Technologies / Knowledge
-Operating Systems| Kali Linux, Linux Fundamentals, Windows
-Security Tools| Nmap, Metasploit, Wireshark
-SIEM| Graylog, Log Analysis
-Virtualisation| Oracle VirtualBox
-Security Frameworks| NIST CSF, OWASP Top 10
-Networking| TCP/IP, OSI Model, Network Fundamentals
-Security Concepts| CVEs, Vulnerability Assessment, Risk Management
-Programming| Python Fundamentals
+#### Network
+<div>
+<img src="https://img.shields.io/badge/-wireshark-1679A7?&style=for-the-badge&logo=wireshark&logocolo=white" />
+<div>
+<img src="https://img.shields.io/badge/-suricata-EF7B4A?&style=for-the-badge&logo=suricata&logocolo=white" />
+<div>
+<img src="https://img.shields.io/badge/-zeek-779AA7?&style=for-the-badge&logo=zeek&logocolo=white" />
 
-🏅 Certifications and Professional Training
+## Certifications and Professional Training
 
 Cisco
 
